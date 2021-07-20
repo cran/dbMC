@@ -1,0 +1,14 @@
+3f58b2da87f729bad6af38dcbe109b9d *DESCRIPTION
+77b6d626f41da125801d6da1a9eac84f *NAMESPACE
+d7ba16288c113193e4d87eabff939d19 *R/CI_mc.R
+25485bd19791690a74c7b9e9fb72bda2 *R/P_Omega.R
+75dda5ac5b874b2cb7c876124923387b *R/dbmc.R
+fd5a446fec49aee8cc216ebdf2733b4b *R/example.R
+ea43e159a998ca74b3688bb2edaa1e97 *build/vignette.rds
+9c367b0c12a50b8b586cda9cc6339a56 *inst/doc/introduction.R
+c77240e588ab5aeb240365f0bcd60b42 *inst/doc/introduction.Rmd
+235a94a6c1b0d3a0a039a652c1ddee3b *inst/doc/introduction.html
+614ef3f86db9d764086eb5fe93a09da4 *man/CI_mc.Rd
+324ed5a7d2eace550e887ebe85355401 *man/P_Omega.Rd
+097edd205e0b8d3f972bbe26e2257b4b *man/dbmc.Rd
+c77240e588ab5aeb240365f0bcd60b42 *vignettes/introduction.Rmd
